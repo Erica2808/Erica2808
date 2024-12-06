@@ -95,8 +95,7 @@
             </ul>
         </div>
     </div>
-    <footer>
-        <p>Información recopilada sobre Chignahuapan - Proyecto 2024</p>
+    
     </footer>
 </body>
 </html>
